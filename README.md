@@ -7,7 +7,7 @@ In this assignment, you'll create another fun and interactive game for web brows
 <b>Getting Started</b>
 
 Click on the link to see the finished product!
-<li><a href="https://treenah.github.io/gippy-yi-yay/">https://treenah.github.io/gippy-yi-yay/</a></li>
+<a href="https://treenah.github.io/gippy-yi-yay/">https://treenah.github.io/gippy-yi-yay/</a>
 
 
 <b>Built With:</b>
