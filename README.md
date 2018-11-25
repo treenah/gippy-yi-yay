@@ -10,7 +10,7 @@ Click on the link to see the finished product!
 
 
 Built With:
-  • HTML
+<li>  • HTML
   • CSS3
   • jQuery
-  • Bootstrap
+  • Bootstrap</li>
