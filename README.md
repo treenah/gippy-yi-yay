@@ -6,11 +6,12 @@ In this assignment, you'll create another fun and interactive game for web brows
 
 <b>Getting Started</b>
 
-Click on the link to see the finished product!
+<ul>Click on the link to see the finished product!</ul>
+<a href="https://treenah.github.io/gippy-yi-yay/">https://treenah.github.io/gippy-yi-yay/</a>
 
 
 Built With:
-<li>  • HTML
+  • HTML
   • CSS3
   • jQuery
   • Bootstrap</li>
